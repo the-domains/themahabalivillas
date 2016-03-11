@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://luna2.com/hotel/luna2-private-hotel/'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - luna2
   - hotel
@@ -17,8 +17,8 @@ keywords:
   - barmen
   - internationally-trained
 description: "Uniquely known as a 'private hotel', located beachfront in the heart of fashionable Seminyak, Luna2 private hotel offers superstar services of an exclusive hotel with the intimacy of a private home. This exclusive-use, five-bedroomed private hotel sleeps approximately 10 people and is the ultimate holiday destination for groups of singles or couples, with or without children."
-datePublished: '2016-03-11T02:21:02.715Z'
-dateModified: '2016-03-11T02:16:26.172Z'
+datePublished: '2016-03-11T02:27:25.056Z'
+dateModified: '2016-03-11T02:27:14.001Z'
 author: []
 related:
   - score: 0.7901719213
@@ -29,7 +29,7 @@ related:
     thumbnail_url: 'https://a1.cdn-hotels.com/cos/production81/d1213/936aa120-c8db-11e5-a3c4-d89d672bd508.jpg'
     thumbnail_width: 1160
 app_links: []
-title: 'Luna2 private hotel, seminyak, bali'
+title: Seminyak Private Hotel
 sourcePath: _posts/2016-03-11-luna2-private-hotel-seminyak-bali.md
 published: true
 authors: []
