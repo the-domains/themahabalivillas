@@ -17,8 +17,8 @@ keywords:
   - barmen
   - internationally-trained
 description: "Uniquely known as a 'private hotel', located beachfront in the heart of fashionable Seminyak, Luna2 private hotel offers superstar services of an exclusive hotel with the intimacy of a private home. This exclusive-use, five-bedroomed private hotel sleeps approximately 10 people and is the ultimate holiday destination for groups of singles or couples, with or without children."
-datePublished: '2016-03-11T02:12:45.643Z'
-dateModified: '2016-03-11T02:10:03.237Z'
+datePublished: '2016-03-11T02:21:02.715Z'
+dateModified: '2016-03-11T02:16:26.172Z'
 author: []
 related:
   - score: 0.7901719213
