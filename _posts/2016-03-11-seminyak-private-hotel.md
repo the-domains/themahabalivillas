@@ -17,8 +17,8 @@ keywords:
   - dryer
   - playroom
 description: "There are errors, please correct and try again... No results found matching your search criteria. Showing all properties instead. 10 5 SQM 1,000 A/C Pool Luna2 private hotel Located in the heart of fashionable Seminyak, between the Oberoi Hotel and The Royal Beach Seminyak, and just 25 minutes drive to Bali's International Airport."
-datePublished: '2016-03-11T05:18:38.362Z'
-dateModified: '2016-03-11T05:18:19.825Z'
+datePublished: '2016-03-11T14:24:18.500Z'
+dateModified: '2016-03-11T14:24:17.701Z'
 author: []
 related: []
 app_links: []
