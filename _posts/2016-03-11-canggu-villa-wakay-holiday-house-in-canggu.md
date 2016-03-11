@@ -17,8 +17,8 @@ keywords:
   - housekeeper
   - dinning
 description: 'Luxurious villa located near Pepito Supermarket Canggu and just 15 minutes to Tanah Lot Canggu Indonesia, Bali'
-datePublished: '2016-03-11T13:07:15.270Z'
-dateModified: '2016-03-11T13:06:57.709Z'
+datePublished: '2016-03-11T14:19:09.819Z'
+dateModified: '2016-03-11T14:18:50.561Z'
 author: []
 related: []
 app_links: []
