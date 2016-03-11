@@ -1,18 +1,28 @@
-analytics: {}
+name: Maha Bali
+favicon: null
+layout_spectrum: 0.24755
+typography_spectrum: 0.7882144125178456
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#D0A0A0'
-    - '#780000'
-    - '#905048'
-    - '#883830'
-    - '#000000'
+    - '#ffffff'
+    - '#9c9c9c'
+    - '#666465'
+    - '#b7b7b7'
+    - '#723405'
   brandStrength: 0.6497309762053192
   lightness: 0.6547223466914147
-  rhythmicContrast: 0.25
   saturation: 0.5795350840780884
-cta: {}
-layout_spectrum: 0.24755
-name: Maha Bali
-opengraph: {}
+  rhythmicContrast: 0.25
 purpose: []
-typography_spectrum: 0.7882144125178456
