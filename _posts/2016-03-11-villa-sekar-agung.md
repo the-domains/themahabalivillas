@@ -17,8 +17,8 @@ keywords:
   - offers
   - guests
 description: '​Villa Sekar Agung is a small compound consist of 6 private villa with private pool. Seminyak Indonesia, Bali'
-datePublished: '2016-03-11T13:03:27.675Z'
-dateModified: '2016-03-11T13:03:19.084Z'
+datePublished: '2016-03-11T13:04:11.179Z'
+dateModified: '2016-03-11T13:03:58.018Z'
 author: []
 related: []
 app_links: []
