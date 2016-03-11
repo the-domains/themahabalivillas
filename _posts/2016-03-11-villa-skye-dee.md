@@ -17,20 +17,20 @@ keywords:
   - kitchen
   - upmarket
 description: 'There are errors, please correct and try again... No results found matching your search criteria. Showing all properties instead. Jl. Sri Rama Gang Janji, Seminyak, 80361, Indonesia 7 3 SQM 650 wifi A/C Pool Villa Skye Dee is a luxurious holiday villa in Bali, set on 650 sqm of land.'
-datePublished: '2016-03-11T04:23:57.368Z'
-dateModified: '2016-03-11T04:23:35.750Z'
+datePublished: '2016-03-11T05:21:33.382Z'
+dateModified: '2016-03-11T05:21:12.429Z'
 author: []
 related: []
 app_links: []
 title: Villa Skye Dee
+sourcePath: _posts/2016-03-11-villa-skye-dee.md
+published: true
 authors: []
 publisher:
   name: Themahabali
   domain: www.themahabali.com
   url: 'http://www.themahabali.com'
   favicon: 'http://l3.cdbcdn.com/themes/shared/v3/assets/img/v-635926770992479107/nonicon.ico?f=18'
-sourcePath: _posts/2016-03-11-villa-skye-dee.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
