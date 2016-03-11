@@ -1,0 +1,28 @@
+name: Themahabalivillas
+favicon: null
+layout_spectrum: 0.9427000710275024
+typography_spectrum: 0.7882144125178456
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6497309762053192
+  lightness: 0.6547223466914147
+  saturation: 0.5795350840780884
+  rhythmicContrast: 0.08454504958353937
+purpose: []
