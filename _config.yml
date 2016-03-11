@@ -1,29 +1,18 @@
-name: Maha Bali
-favicon: null
-layout_spectrum: 0.24755
-typography_spectrum: 0.7882144125178456
-title: 'Professional Vacation Rental | Indonesia'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#923e00'
-    - '#ffffff'
-    - '#c29271'
-    - '#fee000'
-    - '#de9e01'
+    - '#D0A0A0'
+    - '#780000'
+    - '#905048'
+    - '#883830'
+    - '#000000'
   brandStrength: 0.6497309762053192
   lightness: 0.6547223466914147
-  saturation: 0.5795350840780884
   rhythmicContrast: 0.25
+  saturation: 0.5795350840780884
+cta: {}
+layout_spectrum: 0.24755
+name: Maha Bali
+opengraph: {}
 purpose: []
+typography_spectrum: 0.7882144125178456
