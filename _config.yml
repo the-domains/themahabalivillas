@@ -23,6 +23,6 @@ color:
     - '#723405'
   brandStrength: 1
   lightness: 1
-  saturation: 0
+  saturation: 1
   rhythmicContrast: 1
 purpose: []
