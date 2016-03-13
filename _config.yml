@@ -1,4 +1,20 @@
-analytics: {}
+name: Maha Bali / The Maha Bali Villas
+favicon: null
+layout_spectrum: 0.208333
+typography_spectrum: 1
+title: 'The Maha Bali Villas | Professional Vacation Rental in Bali'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#d8e9bf'
@@ -8,11 +24,6 @@ color:
     - '#edf4e4'
   brandStrength: 0.193693
   lightness: 1
-  rhythmicContrast: 0.493243
   saturation: 0.5
-cta: {}
-layout_spectrum: 0.208333
-name: Maha Bali
-opengraph: {}
+  rhythmicContrast: 0.493243
 purpose: []
-typography_spectrum: 1
