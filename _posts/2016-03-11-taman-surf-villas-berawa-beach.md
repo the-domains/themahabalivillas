@@ -17,20 +17,20 @@ keywords:
   - pura
   - dryer
 description: 'There are errors, please correct and try again... No results found matching your search criteria. Showing all properties instead. Jl. Pura Perancak - Berawa - Canggu, Canggu, 80361, Indonesia This BRAND NEW villa was built in 2015 and set in a 550sqm of land. It has a modern design with traditional Balinese architecture.'
-datePublished: '2016-03-11T05:31:01.853Z'
-dateModified: '2016-03-11T05:30:42.293Z'
+datePublished: '2016-03-16T11:58:28.258Z'
+dateModified: '2016-03-16T11:58:15.797Z'
 author: []
 related: []
 app_links: []
 title: Taman Surf Villas - Berawa Beach
+sourcePath: _posts/2016-03-11-taman-surf-villas-berawa-beach.md
+published: true
 authors: []
 publisher:
   name: Themahabali
   domain: www.themahabali.com
   url: 'http://www.themahabali.com'
   favicon: 'http://l3.cdbcdn.com/themes/shared/v3/assets/img/v-635926770992479107/nonicon.ico?f=18'
-sourcePath: _posts/2016-03-11-taman-surf-villas-berawa-beach.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
