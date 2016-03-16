@@ -17,8 +17,8 @@ keywords:
   - furnished
   - courtyard
 description: "This\_complex of three luxury private villas, each with a private swimming pool, hidden away in the rice fields of Umalas village, Kerobokan Bali. Full time\_house staffs, including\_a Villa Manager and cook to ensure you have the best experience for your vacation in Bali. Umalas area offers a taste of the real Bali is all about, quiet and nature but just minutes away to popular tourist spots in Seminyak & Canggu, such as restaurants, shops and beaches. Click for more"
-datePublished: '2016-03-16T09:27:28.328Z'
-dateModified: '2016-03-16T09:26:51.459Z'
+datePublished: '2016-03-16T10:03:07.501Z'
+dateModified: '2016-03-16T09:38:51.306Z'
 author: []
 related: []
 app_links: []
