@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: A Professional Vacation Rental offering wide range selection of accommodations from apartment to luxurious private villas in Bali. All of our apartments and villas listed in this website are carefully selected and regularly inspected to keep maintain our high-level standard of service.
-datePublished: '2016-03-16T10:48:31.358Z'
-dateModified: '2016-03-16T10:48:23.702Z'
+description: ''
+datePublished: '2016-03-16T10:50:07.929Z'
+dateModified: '2016-03-16T10:49:38.606Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-11-a-professional-vacation-rental-offering-wide-range-selection.md
