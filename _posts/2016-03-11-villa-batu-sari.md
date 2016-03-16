@@ -17,8 +17,8 @@ keywords:
   - canggu
   - towel-set
 description: 'There are errors, please correct and try again... No results found matching your search criteria. Showing all properties instead. 10 5 SQM 1,500 A/C Pool This 5BR villa located in a few steps to Canggu Club. Set in 1500 m2 with large private pool with sun deck chairs and large living room.'
-datePublished: '2016-03-11T06:12:34.132Z'
-dateModified: '2016-03-11T06:12:25.981Z'
+datePublished: '2016-03-16T11:56:21.600Z'
+dateModified: '2016-03-16T11:55:09.287Z'
 author: []
 related: []
 app_links: []
