@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "This beautiful 5 bedroom villa is hidden away in a side lane in the heart of fashionable Seminyak and has a large private swimming pool in its walled garden full of tropical plants. Each rooms are air conditioned, the living/dining area has large glass doors opening to the swimming pool and garden.\_"
-datePublished: '2016-03-25T07:06:27.788Z'
-dateModified: '2016-03-25T07:06:18.318Z'
+datePublished: '2016-03-25T07:06:48.887Z'
+dateModified: '2016-03-25T07:06:38.519Z'
 title: VILLA DEWATA II
 author: []
 sourcePath: _posts/2016-03-25-villa-dewata-ii.md
