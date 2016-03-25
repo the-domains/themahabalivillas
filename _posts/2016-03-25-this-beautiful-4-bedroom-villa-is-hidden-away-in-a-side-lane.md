@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: This beautiful 4 bedroom villa is hidden away in a side lane in the heart of fashionable Seminyak and has a large private swimming pool in its walled garden full of tropical plants. The living/dining area has large glass doors opening to the swimming pool and garden.
-datePublished: '2016-03-25T04:53:12.900Z'
-dateModified: '2016-03-25T04:52:57.483Z'
+datePublished: '2016-03-25T04:56:09.843Z'
+dateModified: '2016-03-25T04:54:08.115Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-25-this-beautiful-4-bedroom-villa-is-hidden-away-in-a-side-lane.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-this-beautiful-4-bedroom-villa-is-hidden-away-in-a-side-lane.md
-published: true
 url: this-beautiful-4-bedroom-villa-is-hidden-away-in-a-side-lane/index.html
 _type: Article
 
