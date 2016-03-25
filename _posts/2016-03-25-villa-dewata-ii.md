@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "“Villa Dewata II\" is a perfect retreat for those who appreciate informality and total privacy but want to be close to Bali's best restaurants and shops.\_Villa Dewata II is set in a quiet compound less than 100 meters from the main road in the center of Basangkasa Seminyak."
-datePublished: '2016-03-25T06:28:08.617Z'
-dateModified: '2016-03-25T06:27:59.506Z'
+datePublished: '2016-03-25T06:28:53.743Z'
+dateModified: '2016-03-25T06:28:31.407Z'
 title: VILLA DEWATA II
 author: []
 sourcePath: _posts/2016-03-25-villa-dewata-ii.md
