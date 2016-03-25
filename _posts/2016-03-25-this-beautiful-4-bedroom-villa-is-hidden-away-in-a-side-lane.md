@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: This beautiful 4 bedroom villa is hidden away in a side lane in the heart of fashionable Seminyak and has a large private swimming pool in its walled garden full of tropical plants. The living/dining area has large glass doors opening to the swimming pool and garden.
-datePublished: '2016-03-25T04:58:45.899Z'
-dateModified: '2016-03-25T04:58:40.471Z'
+description: VILLA DEWATA I
+datePublished: '2016-03-25T05:03:36.450Z'
+dateModified: '2016-03-25T05:02:59.173Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-25-this-beautiful-4-bedroom-villa-is-hidden-away-in-a-side-lane.md
@@ -25,7 +25,7 @@ _type: Article
 **VILLA DEWATA I**
 
 This beautiful 4 bedroom villa is hidden away in a side lane in the heart of fashionable Seminyak and has a large private swimming pool in its walled garden full of tropical plants. The living/dining area has large glass doors opening to the swimming pool and garden.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7531e134ebc871e0f98b0aa86e056edd791b8b5.jpg)
+![Villa Dewata I Seminyak Bali](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7531e134ebc871e0f98b0aa86e056edd791b8b5.jpg)
 
 "Villa Dewata I" is set in a quiet compound less than 100 meters from the main road in the center of Basangkasa, the area between Legian/Seminyak and The Oberoi.
 
