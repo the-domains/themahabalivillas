@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "“Villa Dewata II\" is a perfect retreat for those who appreciate informality and total privacy but want to be close to Bali's best restaurants and shops.\_Villa Dewata II is set in a quiet compound less than 100 meters from the main road in the center of Basangkasa Seminyak."
-datePublished: '2016-03-25T06:28:53.743Z'
-dateModified: '2016-03-25T06:28:31.407Z'
+description: "This beautiful 5 bedroom villa is hidden away in a side lane in the heart of fashionable Seminyak and has a large private swimming pool in its walled garden full of tropical plants. Each rooms are air conditioned, the living/dining area has large glass doors opening to the swimming pool and garden.\_“Villa Dewata II\" is a perfect retreat for those who appreciate informality and total privacy but want to be close to Bali's best restaurants and shops.\_Villa Dewata II is set in a quiet compound less than 100 meters from the main road in the center of Basangkasa Seminyak."
+datePublished: '2016-03-25T06:30:56.500Z'
+dateModified: '2016-03-25T06:30:38.990Z'
 title: VILLA DEWATA II
 author: []
 sourcePath: _posts/2016-03-25-villa-dewata-ii.md
@@ -22,8 +22,9 @@ url: villa-dewata-ii/index.html
 _type: Article
 
 ---
-This beautiful 5 bedroom villa is hidden away in a side lane in the heart of fashionable Seminyak and has a large private swimming pool in its walled garden full of tropical plants. Each rooms are air conditioned, the living/dining area has large glass doors opening to the swimming pool and garden. "Villa Dewata II" is a perfect retreat for those who appreciate informality and total privacy but want to be close to Bali's best restaurants and shops. Villa Dewata II is set in a quiet compound less than 100 meters from the main road in the center of Basangkasa Seminyak.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57bfafc3-4d41-4191-bf3e-e3445994527f.jpg)
+This beautiful 5 bedroom villa is hidden away in a side lane in the heart of fashionable Seminyak and has a large private swimming pool in its walled garden full of tropical plants. Each rooms are air conditioned, the living/dining area has large glass doors opening to the swimming pool and garden. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57bfafc3-4d41-4191-bf3e-e3445994527f.jpg)
+
+"Villa Dewata II" is a perfect retreat for those who appreciate informality and total privacy but want to be close to Bali's best restaurants and shops. Villa Dewata II is set in a quiet compound less than 100 meters from the main road in the center of Basangkasa Seminyak. 
 
 The international airport is about 20 minutes away, and its about the same distance to the popular "Bali Nirvana Golf Course" and the famous Tanah Lot temple. Many interesting shops are right on the main road near the villa; it's about 1km to the beach, and a few minutes by car bring you to an increasing number of fashionable restaurants including Ultimo, Métis, Ku de Ta, Hu'u, The Living Room, La Luciola, Trattoria, Mykonos, etc.
 
