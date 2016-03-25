@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "This beautiful 5 bedroom villa is hidden away in a side lane in the heart of fashionable Seminyak and has a large private swimming pool in its walled garden full of tropical plants. Each rooms are air conditioned, the living/dining area has large glass doors opening to the swimming pool and garden.\_“Villa Dewata II\" is a perfect retreat for those who appreciate informality and total privacy but want to be close to Bali's best restaurants and shops.\_Villa Dewata II is set in a quiet compound less than 100 meters from the main road in the center of Basangkasa Seminyak."
-datePublished: '2016-03-25T06:30:56.500Z'
-dateModified: '2016-03-25T06:30:38.990Z'
+description: "This beautiful 5 bedroom villa is hidden away in a side lane in the heart of fashionable Seminyak and has a large private swimming pool in its walled garden full of tropical plants. Each rooms are air conditioned, the living/dining area has large glass doors opening to the swimming pool and garden.\_"
+datePublished: '2016-03-25T06:41:12.228Z'
+dateModified: '2016-03-25T06:41:00.467Z'
 title: VILLA DEWATA II
 author: []
 sourcePath: _posts/2016-03-25-villa-dewata-ii.md
