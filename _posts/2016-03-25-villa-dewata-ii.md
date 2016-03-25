@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "This beautiful 5 bedroom villa is hidden away in a side lane in the heart of fashionable Seminyak and has a large private swimming pool in its walled garden full of tropical plants. Each rooms are air conditioned, the living/dining area has large glass doors opening to the swimming pool and garden.\_"
-datePublished: '2016-03-25T06:43:33.465Z'
-dateModified: '2016-03-25T06:43:13.882Z'
+datePublished: '2016-03-25T07:04:23.937Z'
+dateModified: '2016-03-25T07:04:19.569Z'
 title: VILLA DEWATA II
 author: []
 sourcePath: _posts/2016-03-25-villa-dewata-ii.md
@@ -34,7 +34,7 @@ The adjacent open kitchen is equipped with a gas stove and electric appliances s
 
 The 29 inch TV set with surround-sound in the air-conditioned TV lounge behind the living room is connected to a DVD/VCD player and a cable tv system to receive over 55 international news programs, sports and movie channels, and there is a stereo system with tape deck and CD player in the dining/living room. A direct IDD telephone and a fax machine are installed in the TV lounge with telephone extensions in all bedrooms. You'll find also a personal electronic safe in each bedroom.
 
-## Facilities & Features:
+**Facilities & Features:**
 
 20 meter (60 ft.) swimming pool
 
