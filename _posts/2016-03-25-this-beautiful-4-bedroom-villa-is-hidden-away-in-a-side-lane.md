@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-25T05:46:00.861Z'
-dateModified: '2016-03-25T05:45:45.251Z'
+description: This beautiful 4 bedroom villa is hidden away in a side lane in the heart of fashionable Seminyak and has a large private swimming pool in its walled garden full of tropical plants. The living/dining area has large glass doors opening to the swimming pool and garden.
+datePublished: '2016-03-25T05:46:57.903Z'
+dateModified: '2016-03-25T05:46:06.548Z'
 title: VILLA DEWATA I
 author: []
 sourcePath: _posts/2016-03-25-this-beautiful-4-bedroom-villa-is-hidden-away-in-a-side-lane.md
