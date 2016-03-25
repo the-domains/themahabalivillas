@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "“Villa Dewata II\" is a perfect retreat for those who appreciate informality and total privacy but want to be close to Bali's best restaurants and shops."
-datePublished: '2016-03-25T06:14:28.757Z'
-dateModified: '2016-03-25T06:14:25.357Z'
+datePublished: '2016-03-25T06:15:30.442Z'
+dateModified: '2016-03-25T06:15:20.539Z'
 title: VILLA DEWATA II
 author: []
+sourcePath: _posts/2016-03-25-villa-dewata-ii.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-villa-dewata-ii.md
-published: true
 url: villa-dewata-ii/index.html
 _type: Article
 
